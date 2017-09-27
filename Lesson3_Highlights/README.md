@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 27, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Fabian Jones)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment went off of the previous assignment. There were many more concepts to learn about, such as Version control, git, and others.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Version control, which I learned is a central hub repository responsible for all project files.)
+2. (A remote repository is on a remote server and can be used by people.)
+3. (A local repository can be created by either creating a brand new one or by cloning and existing one into the users own machine.)
 
