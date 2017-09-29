@@ -13,6 +13,8 @@ Web Application Development
 ## Project Description:
 (This assignment went off of the previous assignment. There were many more concepts to learn about, such as Version control, git, and others.)
 
+## View Project: (https://fjones850.github.io/lesson3_VersionControl/)
+
 ## Lessons Learned in the Assignment:
 1. (Version control, which I learned is a central hub repository responsible for all project files.)
 2. (A remote repository is on a remote server and can be used by people.)
